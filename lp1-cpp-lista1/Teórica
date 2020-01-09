@@ -1,0 +1,23 @@
+1) Sobre o Paradigma de Programação Orientada a objetos, responda as seguintes questões:
+
+(a) O que são classes e objetos? Explique a diferença entre os dois.
+
+Classes definem o que os objetos irão possuir: determinados atributos
+e métodos. Já os objetos são criações derivadas das classes em questão, 
+herdando seus atributos e métodos. 
+
+(b) Para que serve um construtor e quando e como ele pode ser utilizado?
+
+Um construtor é um método para inicializar um objeto de uma determinada classe. 
+O construtor é usado quando são criados objetos de uma dada classe,
+inicializando-os.
+
+(c) Quais são os benefícios do encapsulamento? Exemplifique.
+
+O processo de encapsulamento serve para esconder "detalhes" não essenciais de um objeto.
+A técnica de encapsulamento tem como principal objetivo a segurança de dados em relação 
+a determinados objetos, impossibilitando a alteração direta; as alterações e consultas
+só podem ser feitas através dos métodos 'get' e 'set'. Por exemplo, um usuário não precisa
+saber o "anoFabricacao" de um automóvel para usá-lo. Neste caso, podemos encapsular tal
+atributo.
+
