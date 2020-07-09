@@ -1,5 +1,8 @@
 <h1 align="center">
-  Exercícios de Programação em C++
+  :br:
+</h1>
+<h1 align="center">
+  Exercícios de Programação
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/franklinthony/exercises-programming-cpp">
