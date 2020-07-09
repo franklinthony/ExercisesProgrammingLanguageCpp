@@ -1,5 +1,5 @@
 <h1 align="center">
-  :br:
+  :computer: :page_facing_up:
 </h1>
 <h1 align="center">
   Exercícios de Programação
