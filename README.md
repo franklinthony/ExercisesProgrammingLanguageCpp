@@ -2,16 +2,16 @@
   Exercícios de Programação em C++
 </h1>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/franklinthony/ExercisesProgrammingLanguageCpp">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/franklinthony/exercises-programming-cpp">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/franklinthony/ExercisesProgrammingLanguageCpp">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/franklinthony/exercises-programming-cpp">
   
-  <a href="https://github.com/franklinthony/ExercisesProgrammingLanguageCpp/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franklinthony/ExercisesProgrammingLanguageCpp">
+  <a href="https://github.com/franklinthony/exercises-programming-cpp/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franklinthony/exercises-programming-cpp">
   </a>
 
-  <a href="https://github.com/franklinthony/ExercisesProgrammingLanguageCpp/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/franklinthony/ExercisesProgrammingLanguageCpp">
+  <a href="https://github.com/franklinthony/exercises-programming-cpp/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/franklinthony/exercises-programming-cpp">
   </a>
 </p>
 
